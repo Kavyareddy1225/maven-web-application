@@ -103,7 +103,7 @@
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>admin </name>
+	      <name>admin</name>
 	      <url>http://35.78.188.113:8081/repository/ganesh1/</url>
 	    </snapshotRepository>
 	    
